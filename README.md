@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaelEredar
-- 👀 I’m interested in programming, music, video games, politic and a little bit weapons
-- 🌱 I’m currently learning HTML, CSS, JS, Reacts, Redux, TS - in general web programming
+- 👀 I’m interested in programming, music, video games and politic 
+- 🌱 I’m currently learnin game development
 - 📫 How to reach me: telegram @KaelEredar
 
 <!---
